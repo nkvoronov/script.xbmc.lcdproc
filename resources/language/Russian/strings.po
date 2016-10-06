@@ -1,0 +1,149 @@
+﻿# Kodi Media Center language file
+# Addon Name: script.xbmc.lcdproc
+# Addon id: script.xbmc.lcdproc
+# Addon Provider: robwebset
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32100"
+msgid "Behaviour"
+msgstr "Основное"
+
+msgctxt "#32101"
+msgid "Delay for scrolling text"
+msgstr "Задержка прокрутки текста"
+
+msgctxt "#32102"
+msgid "Scroll mode"
+msgstr "Режим прокрутки"
+
+msgctxt "#32103"
+msgid "Navigation display duration (s)"
+msgstr "Время отображения нав. информации (сек)"
+
+msgctxt "#32104"
+msgid "Display refresh rate (Hz)"
+msgstr "Частота обновления дисплея (Гц)"
+
+msgctxt "#32105"
+msgid "Use alternate charset"
+msgstr "Использовать альтернативную кодировку"
+
+msgctxt "#32106"
+msgid "Charset"
+msgstr "Кодировка"
+
+msgctxt "#32107"
+msgid "Support for extra display elements (e.g. icons)"
+msgstr "Поддержка доп. элементов дисплея (например, иконок)"
+
+msgctxt "#32200"
+msgid "Backlight"
+msgstr "Подсветка"
+
+msgctxt "#32201"
+msgid "on screensaver"
+msgstr "Отключать подсветку при активном скринсейвере"
+
+msgctxt "#32202"
+msgid "Dim on shutdown"
+msgstr "Отключать подсветку при выключении"
+
+msgctxt "#32203"
+msgid "on video/LiveTV playback"
+msgstr "Отключать подсветку при проигровании video/LiveTV"
+
+msgctxt "#32204"
+msgid "on music/radio playback"
+msgstr "Отключать подсветку при проигровании music/radio"
+
+msgctxt "#32205"
+msgid "Delay (s)"
+msgstr "Задержка(сек)"
+
+msgctxt "#32206"
+msgid "Dim/turn off..."
+msgstr "Dim/turn off..."
+
+msgctxt "#32300"
+msgid "Connection"
+msgstr "Соединение"
+
+msgctxt "#32301"
+msgid "Use remote LCDProc"
+msgstr "LCDProc на другой машине"
+
+msgctxt "#32302"
+msgid "LCDd IP"
+msgstr "IP-адрес машины с LCDd"
+
+msgctxt "#32303"
+msgid "LCDd port"
+msgstr "Порт LCDd"
+
+msgctxt "#32304"
+msgid "Show heartbeat symbol"
+msgstr "Показывать сердцебиение"
+
+msgctxt "#32305"
+msgid "Hide connection error notifications"
+msgstr "Не уведомлять об ошибках подключения"
+
+msgctxt "#32401"
+msgid "Marquee"
+msgstr "По вертикали"
+
+msgctxt "#32402"
+msgid "Left/Right"
+msgstr "По горизонтали"
+
+msgctxt "#32411"
+msgid "ISO8859-1 (default)"
+msgstr "ISO8859-1 (default)"
+
+msgctxt "#32412"
+msgid "ISO8859-15"
+msgstr "ISO8859-15"
+
+msgctxt "#32413"
+msgid "KOI8-R"
+msgstr "KOI8-R"
+
+msgctxt "#32414"
+msgid "CP1251"
+msgstr "CP1251"
+
+msgctxt "#32415"
+msgid "ISO8859-5"
+msgstr "ISO8859-5"
+
+msgctxt "#32416"
+msgid "HD44780-ROM A00"
+msgstr "HD44780-ROM A00"
+
+msgctxt "#32417"
+msgid "HD44780-ROM A02"
+msgstr "HD44780-ROM A02"
+
+msgctxt "#32500"
+msgid "Failed to connect to LCDProc!"
+msgstr "Не удалось подключиться к LCDProc!"
+
+msgctxt "#32501"
+msgid "Connected to LCDProc!"
+msgstr "Подключен к LCDProc!"
+
+msgctxt "#32502"
+msgid "Warning! Errors in LCD.xml or LCD.xml not found!"
+msgstr "Внимание! Ошибки в LCD.xml или LCD.xml не найден!"
