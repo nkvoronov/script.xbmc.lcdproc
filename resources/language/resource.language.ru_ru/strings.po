@@ -51,7 +51,11 @@ msgctxt "#32107"
 msgid "Support for extra display elements (e.g. icons)"
 msgstr "Поддержка доп. элементов дисплея (например, иконок)"
 
-# empty strings from id 32108 to 32199
+msgctxt "#32108"
+msgid "System time format"
+msgstr "Формат системного времени"
+
+# empty strings from id 32109 to 32199
 # Backlight
 
 msgctxt "#32200"
@@ -80,7 +84,7 @@ msgstr "Задержка(сек)"
 
 msgctxt "#32206"
 msgid "Dim/turn off..."
-msgstr "Dim/turn off..."
+msgstr "Затемнить/выключить..."
 
 # empty strings from id 32207 to 32299
 # Connection
@@ -125,7 +129,7 @@ msgstr "По горизонтали"
 
 msgctxt "#32411"
 msgid "ISO8859-1 (default)"
-msgstr "ISO8859-1 (default)"
+msgstr "ISO8859-1 (по умолчанию)"
 
 msgctxt "#32412"
 msgid "ISO8859-15"
@@ -151,7 +155,26 @@ msgctxt "#32417"
 msgid "HD44780-ROM A02"
 msgstr "HD44780-ROM A02"
 
-# empty strings from id 32418 to 32499
+# empty strings from id 32418 to 32420
+# Enum values: System time format
+
+msgctxt "#32421"
+msgid "H:MM"
+msgstr "Ч:ММ"
+
+msgctxt "#32422"
+msgid "HH:MM"
+msgstr "ЧЧ:ММ"
+
+msgctxt "#32423"
+msgid "Ч:ММ:СС"
+msgstr ""
+
+msgctxt "#32424"
+msgid "ЧЧ:ММ:СС"
+msgstr ""
+
+# empty strings from id 32425 to 32499
 # Notifications
 
 msgctxt "#32500"
