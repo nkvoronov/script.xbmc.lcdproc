@@ -160,18 +160,18 @@ msgstr "HD44780-ROM A02"
 
 msgctxt "#32421"
 msgid "H:MM"
-msgstr "Ч:ММ"
+msgstr ""
 
 msgctxt "#32422"
 msgid "HH:MM"
-msgstr "ЧЧ:ММ"
+msgstr ""
 
 msgctxt "#32423"
-msgid "Ч:ММ:СС"
+msgid "H:MM:SS"
 msgstr ""
 
 msgctxt "#32424"
-msgid "ЧЧ:ММ:СС"
+msgid "HH:MM:SS"
 msgstr ""
 
 # empty strings from id 32425 to 32499
