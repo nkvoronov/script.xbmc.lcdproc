@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+﻿# Kodi Media Center language file
 # Addon Name: XBMC LCDproc
 # Addon id: script.xbmc.lcdproc
 # Addon Provider: Team Kodi: Memphiz, Daniel 'herrnst' Scheller
@@ -8,128 +8,128 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/herrnst/script.xbmc.lcdproc\n"
 "POT-Creation-Date: 2018-06-02 15:55+0200\n"
 "PO-Revision-Date: 2018-06-02 15:55+0200\n"
-"Last-Translator: Michał Skalski <mskalski13@gmail.com>\n"
-"Language-Team: Polish\n"
+"Last-Translator: Daniel Scheller <nst@kodi.tv>\n"
+"Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 # Settings
 # Behaviour
 
 msgctxt "#32100"
 msgid "Behaviour"
-msgstr "Zachowanie"
+msgstr "Основне"
 
 msgctxt "#32101"
 msgid "Delay for scrolling text"
-msgstr "Opóźnienie dla przewijania tekstu"
+msgstr "Затримка прокрутки тексту"
 
 msgctxt "#32102"
 msgid "Scroll mode"
-msgstr "Tryb przewijania"
+msgstr "Режим прокрутки"
 
 msgctxt "#32103"
 msgid "Navigation display duration (s)"
-msgstr "Czas wyświetlania informacji nawigacyjnych (s)"
+msgstr "Час відображення нав. інформації (сек)"
 
 msgctxt "#32104"
 msgid "Display refresh rate (Hz)"
-msgstr "Częstotliwość odświeżania (Hz)"
+msgstr "Частота оновлення зображення на дисплеї (Гц)"
 
 msgctxt "#32105"
 msgid "Use alternate charset"
-msgstr "Użyj alternatywnego zestawu znaków"
+msgstr "Використовувати альтернативну кодування"
 
 msgctxt "#32106"
 msgid "Charset"
-msgstr "Zestaw znaków"
+msgstr "Кодування"
 
 msgctxt "#32107"
 msgid "Support for extra display elements (e.g. icons)"
-msgstr "Wsparcie dla dodatkowych elementów wyświetlających (np. ikon)"
+msgstr "Підтримка доп. елементів дисплея (наприклад, ікон)"
 
 msgctxt "#32108"
 msgid "System time format"
-msgstr "Format czasu systemowego"
+msgstr "Формат системного часу"
 
 # empty strings from id 32109 to 32199
 # Backlight
 
 msgctxt "#32200"
 msgid "Backlight"
-msgstr "Podświetlenie"
+msgstr "Підсвічування"
 
 msgctxt "#32201"
 msgid "on screensaver"
-msgstr "podczas działania wygaszacza ekranu"
+msgstr "Відключати підсвічування при активному скрінсейвери"
 
 msgctxt "#32202"
 msgid "Dim on shutdown"
-msgstr "Przyciemnij przed wyłączeniem"
+msgstr "Відключати підсвічування при вимкненні"
 
 msgctxt "#32203"
 msgid "on video/LiveTV playback"
-msgstr "podczas odtwarzania filmów wideo/TV"
+msgstr "Відключати підсвічування при програвання video/LiveTV"
 
 msgctxt "#32204"
 msgid "on music/radio playback"
-msgstr "podczas odtwarzania muzyki/radia"
+msgstr "Відключати підсвічування при програвання music/radio"
 
 msgctxt "#32205"
 msgid "Delay (s)"
-msgstr "Opóźnienie (s)"
+msgstr "Затримка (сек)"
 
 msgctxt "#32206"
 msgid "Dim/turn off..."
-msgstr "Przyciemnij/wyłącz podświetlenie:"
+msgstr "Затемнити/вимкнути ..."
 
 # empty strings from id 32207 to 32299
 # Connection
 
 msgctxt "#32300"
 msgid "Connection"
-msgstr "Połączenie"
+msgstr "З'єднання"
 
 msgctxt "#32301"
 msgid "Use remote LCDProc"
-msgstr "Podłącz do zdalnego serwera LCDProc"
+msgstr "LCDProc на іншій машині"
 
 msgctxt "#32302"
 msgid "LCDd IP"
-msgstr "Adres IP serwera LCDd"
+msgstr "IP-адреса машини з LCDd"
 
 msgctxt "#32303"
 msgid "LCDd port"
-msgstr "Port serwera LCDd"
+msgstr "Порт LCDd"
 
 msgctxt "#32304"
 msgid "Show heartbeat symbol"
-msgstr "Włącz tętno (heartbeat)"
+msgstr "Показувати серцебиття"
 
 msgctxt "#32305"
 msgid "Hide connection error notifications"
-msgstr "Nie pokazuj powiadomień o błędach połączenia"
+msgstr "Не повідомляти про помилки підключення"
 
 # empty strings from id 32306 to 32400
 # Enum values: Scroll mode
 
 msgctxt "#32401"
 msgid "Marquee"
-msgstr "Marquee"
+msgstr "По вертикалі"
 
 msgctxt "#32402"
 msgid "Left/Right"
-msgstr "Lewo/Prawo"
+msgstr "По горизонталі"
 
 # empty strings from id 32403 to 32410
 # Enum values: Charsets
 
 msgctxt "#32411"
 msgid "ISO8859-1 (default)"
-msgstr "ISO8859-1 (default)"
+msgstr "ISO8859-1 (за замовчуванням)"
 
 msgctxt "#32412"
 msgid "ISO8859-15"
@@ -179,12 +179,12 @@ msgstr ""
 
 msgctxt "#32500"
 msgid "Failed to connect to LCDProc!"
-msgstr "Błąd połączenia z serwerem LCDProc!"
+msgstr "Помилка з'єднання з LCDProc!"
 
 msgctxt "#32501"
 msgid "Connected to LCDProc!"
-msgstr "Połączony z serwerem LCDProc!"
+msgstr "Підключений до LCDProc!"
 
 msgctxt "#32502"
 msgid "Warning! Errors in LCD.xml or LCD.xml not found!"
-msgstr "Uwaga! Błędy w konfiguracji w pliku LCD.xml lub plik LCD.xml nie znaleziony!"
+msgstr "Увага! Помилки в LCD.xml або LCD.xml не знайден!"
