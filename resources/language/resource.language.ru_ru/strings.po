@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "#32100"
 msgid "Behaviour"
-msgstr "Основное"
+msgstr "Поведение"
 
 msgctxt "#32101"
 msgid "Delay for scrolling text"
