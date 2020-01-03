@@ -1,4 +1,5 @@
-3.0.6
+3.90.0
+- XBMC LCDproc for Kodi Matrix (Python 3)
 - Allow LCDproc protocol version 0.4
 3.0.5
 - selectable BigDigit clock format by mskalski (thanks!)

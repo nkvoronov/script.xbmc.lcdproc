@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.xbmc.lcdproc" name="XBMC LCDproc" version="3.0.6.013" provider-name="Team Kodi: Memphiz, Daniel 'herrnst' Scheller, YLLOW_DRAGON">
+<addon id="script.xbmc.lcdproc" name="XBMC LCDproc" version="3.90.0.015" provider-name="Team Kodi: Memphiz, Daniel 'herrnst' Scheller, YLLOW_DRAGON">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
 	<extension point="xbmc.service" library="main.py"/>
 	<extension point="xbmc.addon.metadata">
 		<language></language>
-		<summary>Kodi/XBMC LCDproc</summary>
+		<summary lang="en_GB">Kodi/XBMC LCDproc</summary>
 		<description lang="en_GB">Displays configurable information e.g. about playing media or Kodi status on any LC/VF-display driven by LCDproc, and acts as direct drop-in replacement to the LCD/VFD-feature previously available in Kodi/XBMC's core. Supports additional display elements (icons, bars) on SoundGraph iMON LCD and Targa/Futaba mdm166a VFD hardware. Requires a properly configured and running LCDd either locally or somewhere on the network.</description>
 		<description lang="ru_RU">Отображает настраиваемую информацию, например, о воспроизводимом медиа или статус Kodi на любой LC/VF-дисплей который управляется LCDProc и действует как прямая замена к LCD/VFD--функции, ранее доступные в ядре Kodi/XBMC. Поддерживает дополнительные элементы отображения (иконки, бары) на SoundGraph iMON LCD и Targa/Futaba mdm166a VFD аппаратного обеспечения. Требуется правильно сконфигурированый и запущенный LCDd либо локально, либо где-то в сети.</description>
 		<description lang="uk_UA">Відображає настроювану інформацію, наприклад, можливостей відтворення медіа або статус Kodi на будь-який LC/VF-дисплей який управляється LCDProc і діє як пряма заміна до LCD/VFD - функції, раніше доступні в ядрі Kodi/XBMC. Підтримує додаткові елементи відображення (іконки, бари) на SoundGraph iMON LCD та Targa/Futaba mdm166a VFD апаратного забезпечення. Потрібно правильно сконфігурірований і запущений LCDd або локально, або десь в мережі.</description>
@@ -20,10 +20,11 @@
 		<source>https://github.com/nkvoronov/script.xbmc.lcdproc.git</source>
 		<email>nkvoronov@gmail.com</email>
 		<assets>
-		<icon>resources/icon.png</icon>
+			<icon>resources/icon.png</icon>
 		</assets>
-		<news>3.0.4
-		- Fix possible exception due to improper LCD.xml handling
+		<news>3.90.0
+		- XBMC LCDproc for Kodi Matrix (Python 3)
+		- Allow LCDproc protocol version 0.4
 		</news>
 	</extension>
 </addon>
